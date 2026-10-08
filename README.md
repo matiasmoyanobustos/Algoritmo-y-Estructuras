@@ -5,6 +5,7 @@ Repositorio para organizar las guías de la cursada de Algoritmos y Estructuras 
 ## Guías
 
 - [Análisis de algoritmos](guias/analisis-de-algoritmos/README.md): diez ejercicios sobre vectores, matrices y Bubble Sort.
+- [Recursividad](guias/recursividad/README.md): diez ejercicios introductorios de recursión en Java 21.
 
 ## Agregar una guía
 
