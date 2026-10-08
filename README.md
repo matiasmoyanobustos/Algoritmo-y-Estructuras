@@ -8,6 +8,7 @@ Repositorio para organizar las guías de la cursada de Algoritmos y Estructuras 
 - [Recursividad](guias/recursividad/README.md): diez ejercicios introductorios de recursión en Java 21.
 - [Ordenamiento](guias/ordenamiento/README.md): diez ejercicios sobre algoritmos de ordenamiento en Java 21.
 - [Pilas y Colas con Arreglos](guias/pilas-colas-con-arreglo/README.md): diez ejercicios con estructuras de capacidad fija en Java 21.
+- [Listas enlazadas simples](guias/listas-enlazadas-simples/README.md): diez ejercicios de nodos, referencias, operaciones y listas genéricas en Java 21.
 
 ## Agregar una guía
 
