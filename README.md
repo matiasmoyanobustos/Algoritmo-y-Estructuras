@@ -9,6 +9,7 @@ Repositorio para organizar las guías de la cursada de Algoritmos y Estructuras 
 - [Ordenamiento](guias/ordenamiento/README.md): diez ejercicios sobre algoritmos de ordenamiento en Java 21.
 - [Pilas y Colas con Arreglos](guias/pilas-colas-con-arreglo/README.md): diez ejercicios con estructuras de capacidad fija en Java 21.
 - [Listas enlazadas simples](guias/listas-enlazadas-simples/README.md): diez ejercicios de nodos, referencias, operaciones y listas genéricas en Java 21.
+- [Pilas y Colas con Listas Enlazadas](guias/pila-cola-con-lista-enlazada/README.md): diez ejercicios de estructuras enlazadas en Java 21.
 
 ## Agregar una guía
 
